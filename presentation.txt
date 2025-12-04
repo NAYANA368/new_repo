@@ -1,0 +1,14 @@
+<script>
+class library{
+costructor(){
+this.books=[];
+this.ISBN=[];
+this.title=[];
+}
+addBook(book){
+this.book.push(book);
+document.write("Book added");
+}
+removeBook(ISBN){
+this.books=this.books.filter(
+
